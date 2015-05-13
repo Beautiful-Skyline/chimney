@@ -1,0 +1,280 @@
+#services p a:hover,
+#vinogradovb a:hover,
+#wework p a:hover  {
+   color: #FF0000;
+}
+
+#dimohodib a:hover,
+#pechib a:hover  {
+   background-position: -189px 0%;
+}
+
+#services p a,
+#wework p a  {
+   text-decoration: none;
+   color: #C9C9C9;
+}
+
+#kaminib a,
+#barbekyub a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 265px;
+   background-position: 0% 0px;
+   font-size: 265px;
+   line-height: 265px;
+}
+
+#wework p,
+#services p  {
+   font: 12px/14px Arial;
+   margin: 0px;
+   color: #C9C9C9;
+   text-align: left;
+}
+
+#barbekyub a:hover  {
+   background-position: -172px 0%;
+}
+
+#othersb a:hover  {
+   background-position: -167px 0%;
+}
+
+#kaminib a:hover  {
+   background-position: -181px 0%;
+}
+
+#vinogradovb a  {
+   display: block;
+   width: 100%;
+   text-decoration: none;
+   color: #5C5C5C;
+}
+
+#tereschenko  {
+   margin: 0px auto 0px auto;
+   width: 800px;
+   position: relative;
+}
+
+#barbekyub a  {
+   width: 172px;
+   background-image: url(tereschenkomedia/barbekyub.jpg);
+}
+
+#dimohodib a  {
+   background: url(tereschenkomedia/dimohodib.jpg) no-repeat 0% 0px;
+   display: block;
+   height: 263px;
+   width: 189px;
+   font-size: 263px;
+   line-height: 263px;
+}
+#vinogradovb  {
+   font: 11px/18px Arial;
+   text-align: center;
+   visibility: visible;
+   position: absolute;
+   left: 0px;
+   top: 1781px;
+   z-index: 2;
+}
+
+
+
+
+a.Crafted-with-love#Vertical {
+top: 1700px;
+bottom: 0;
+visibility: hidden;
+
+width: 50px;
+text-align: center;
+display: block;
+padding: 10px;
+position: absolute;
+z-index: 2;
+color: lightslategrey!important;
+font-size: 10px;
+text-decoration: initial;
+margin: 0;
+height: 73px;
+}
+a.Crafted-with-love#Vertical:hover .Beautiful-Skyline-logo {
+-webkit-transform: rotate(-5deg);
+-moz-transform: rotate(-5deg);
+-ms-transform: rotate(-5deg);
+-o-transform: rotate(-5deg);
+transform: rotate(-5deg);
+}
+a.Crafted-with-love#Vertical .Beautiful-Skyline-logo {
+background-image: url(http://skylines.su/wp-content/themes/Beautiful-Skyline/images/Beautiful.Skyline.logo.40x49.monochrome.gif);
+height: 49px;
+width: 40px;
+margin: 0 auto;
+display: block;
+}
+a.Crafted-with-love#Vertical .Beautiful-Skyline-text {
+    line-height: 1.2;
+    display: block;
+}
+
+
+
+
+a.Crafted-with-love#Horizontal {
+bottom: 0px;
+left: 350px;
+top: 1760px;
+
+height: 24px;
+font-size: 10px;
+color: #AAA!important;
+margin: 0;
+text-align: left;
+position: absolute;
+line-height: 1;
+z-index: 2;
+padding: 10px;
+width: 80px;
+display: block;
+text-decoration: initial;
+}
+a.Crafted-with-love#Horizontal .Beautiful-Skyline-text {
+display: inline-block;
+height: 22px;
+width: 50px;
+vertical-align: bottom;
+}
+a.Crafted-with-love#Horizontal .Beautiful-Skyline-logo {
+background: url(http://vinogradov.net.ua/wp-content/uploads/Vinogradov-logo_22x22.png) 0 0 no-repeat;
+height: 22px;
+width: 26px;
+display: inline-block;
+}
+a.Crafted-with-love#Horizontal:hover .Beautiful-Skyline-logo {
+-webkit-transform: rotate(-5deg);
+-moz-transform: rotate(-5deg);
+-ms-transform: rotate(-5deg);
+-o-transform: rotate(-5deg);
+transform: rotate(-5deg);
+}
+
+
+
+
+
+
+
+
+
+
+#background  {
+   background: url(tereschenkomedia/background.jpg) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 0px;
+   top: 0px;
+   z-index: 1;
+   width: 800px;
+   height: 1800px;
+}
+
+#kaminib a  {
+   width: 181px;
+   background-image: url(tereschenkomedia/kaminib.jpg);
+}
+
+#othersb a  {
+   background: url(tereschenkomedia/othersb.jpg) no-repeat 0% 0px;
+   display: block;
+   height: 76px;
+   width: 167px;
+   font-size: 76px;
+   line-height: 76px;
+}
+
+#dimohodib  {
+   visibility: visible;
+   position: absolute;
+   left: 593px;
+   top: 1167px;
+   z-index: 2;
+   width: 189px;
+   height: 263px;
+}
+
+#barbekyub  {
+   visibility: visible;
+   position: absolute;
+   left: 416px;
+   top: 1156px;
+   z-index: 2;
+   width: 172px;
+   height: 265px;
+}
+
+#services  {
+   visibility: visible;
+   position: absolute;
+   left: 107px;
+   top: 1480px;
+   z-index: 2;
+   width: 250px;
+}
+
+#pechib a  {
+   background: url(tereschenkomedia/pechib.jpg) no-repeat 0% 0px;
+   display: block;
+   height: 274px;
+   width: 189px;
+   font-size: 274px;
+   line-height: 274px;
+}
+
+#othersb  {
+   visibility: visible;
+   position: absolute;
+   left: 587px;
+   top: 1098px;
+   z-index: 3;
+   width: 167px;
+   height: 76px;
+}
+
+#kaminib  {
+   visibility: visible;
+   position: absolute;
+   left: 223px;
+   top: 1170px;
+   z-index: 2;
+   width: 181px;
+   height: 265px;
+}
+
+#pechib  {
+   visibility: visible;
+   position: absolute;
+   left: 27px;
+   top: 1122px;
+   z-index: 2;
+   width: 189px;
+   height: 274px;
+}
+
+#wework  {
+   visibility: visible;
+   position: absolute;
+   left: 274px;
+   top: 819px;
+   z-index: 2;
+   width: 250px;
+}
+
+html, body  {
+   padding: 0px;
+   margin: 0px;
+   background-color: #000000;
+}
+
